@@ -1,0 +1,28 @@
+{
+    "flar2.devcheck": {
+        "MOD BY": "TRON MODS",
+        "showDialog": true,
+        "title": "MOD BY : TRON MODS",
+        "message": "https://raw.githubusercontent.com/tron889900/Tron-Mods/refs/heads/main/Tron.html",
+        "showNegativeButton": true,
+        "NegativeButtonText": "Join Channel",
+        "NegativeButtonUrl": "Hai",
+        "showPositiveButton": true,
+        "positiveButtonText": "Maybe Later",
+        "maxShowCount": 1,
+        "controlByShowCount": false,
+ 
+        "updateConfig": {
+            "updateMonitor": false,
+            "requiredVersion": "9999",
+            "requiredVersionCode": 126,
+            "title": "Mod by @kafuHex",
+            "message": "https://raw.githubusercontent.com/Paste your HTML path",
+            "showNegativeButton": true,
+            "NegativeButtonText": "test update",
+            "NegativeButtonUrl": "https://t.me/TheHiddenFools",
+            "showPositiveButton": true,
+            "positiveButtonText": "Maybe Later"
+        }
+    }
+}

@@ -9,7 +9,7 @@
         "NegativeButtonUrl": "Hai",
         "showPositiveButton": true,
         "positiveButtonText": "Maybe Later",
-        "maxShowCount": 1,
+        "maxShowCount": 3,
         "controlByShowCount": false,
  
         "updateConfig": {
